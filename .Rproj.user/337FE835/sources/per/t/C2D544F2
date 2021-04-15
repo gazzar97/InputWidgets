@@ -1,0 +1,24 @@
+{
+    "id": "C2D544F2",
+    "path": "~/Desktop/InputWidgets/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "4232843915",
+    "contents": "",
+    "dirty": false,
+    "created": 1618360059892.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "13,15",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618483899,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618483899026,
+    "read_only": false,
+    "read_only_alternatives": []
+}
